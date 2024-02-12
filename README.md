@@ -1,1 +1,1 @@
-# Scrapper
+Creating a web scraper using bs4 and selenium scraps data from "https://www.flashfootball.com/england/premier-league-2022-2023/archive/" data to be used for training a ML model gets the data from the last 10 seasons each match get data such as : home and away teams home and away goals scored other match statistics: possesion,freekicks,cards,corners,xg,shots,shots on goal,throw ins .... more functionality added with time
